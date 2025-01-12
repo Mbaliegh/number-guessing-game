@@ -1,7 +1,7 @@
 Descriptions of the project
 
 access the project use the url:
-https://github.com/Mbaliegh/number-guessing-game/tree/master
+https://github.com/Mbaliegh/number-guessing-game/blob/master/mbaliegh/number_guessing.py
 
 NUMBER GUESSING GAME
 This is a fun console-based game where players try to guess a randomly generated number within a limited number of attempts based on the selected difficulty level.
