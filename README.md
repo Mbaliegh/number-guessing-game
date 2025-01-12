@@ -19,4 +19,6 @@ GAME RULES
 
 AUTHOR
 Mbaliegh
+project:
+https://github.com/Mbaliegh/number-guessing-game/tree/master
 
