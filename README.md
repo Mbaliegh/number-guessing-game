@@ -17,7 +17,6 @@ GAME RULES
 3. The game will provide hints if your guess is too high or too low.
 4. You win if you guess the number within the allotted attempts; otherwise, the correct number will be revealed.
 
-
 AUTHOR
 Mbaliegh
 
