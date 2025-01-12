@@ -1,4 +1,6 @@
 Descriptions of the project
+to access it:
+https://github.com/Mbaliegh/number-guessing-game/tree/master
 
 NUMBER GUESSING GAME
 This is a fun console-based game where players try to guess a randomly generated number within a limited number of attempts based on the selected difficulty level.
