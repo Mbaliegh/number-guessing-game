@@ -21,5 +21,5 @@ GAME RULES
 AUTHOR
 Mbaliegh
 how access the project:
-https://github.com/Mbaliegh/number-guessing-game/tree/master
+https://github.com/Mbaliegh/number-guessing-game
 
