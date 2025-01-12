@@ -1,7 +1,5 @@
 Descriptions of the project
 
-
-
 NUMBER GUESSING GAME
 This is a fun console-based game where players try to guess a randomly generated number within a limited number of attempts based on the selected difficulty level.
 
